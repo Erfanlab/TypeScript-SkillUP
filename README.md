@@ -1,4 +1,15 @@
 # TypeScript-SkillUP
+# TypeScript-SkillUP
+learn TypeScript  with simplilearn
+1.install : npm i typescript
+2.npm install -g react
+3.npx create-react-app my-app
+when wrong to npm React : https://github.com/pksunkara/npm-police
+
+------------------------------------------------------
+
+
+
 learn TypeScript  with simplilearn
 
 1.What is TypeScript?
