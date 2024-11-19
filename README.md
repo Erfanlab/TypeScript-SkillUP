@@ -1,5 +1,4 @@
 # TypeScript-SkillUP
-# TypeScript-SkillUP
 learn TypeScript  with simplilearn
 1.install : npm i typescript
 2.npm install -g react
