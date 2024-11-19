@@ -8,7 +8,8 @@ when wrong to npm React : https://github.com/pksunkara/npm-police
 ------------------------------------------------------
 
 
-
+<P>
+            
 learn TypeScript  with simplilearn
 
 1.What is TypeScript?
@@ -30,4 +31,5 @@ TypeScript support other javascript libraies
 BUT:
 not support absert glasese
 ---------------------------------------------------
+</P>
 
