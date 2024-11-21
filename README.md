@@ -1,4 +1,15 @@
 # TypeScript-SkillUP
+learn TypeScript  with simplilearn</br>
+1.install : npm i typescript</br>
+2.npm install -g react</br>
+3.npx create-react-app my-app</br>
+when wrong to npm React : https://github.com/pksunkara/npm-police
+
+------------------------------------------------------
+
+
+<P>
+            
 learn TypeScript  with simplilearn
 
 1.What is TypeScript?
@@ -20,4 +31,5 @@ TypeScript support other javascript libraies
 BUT:
 not support absert glasese
 ---------------------------------------------------
+</P>
 
